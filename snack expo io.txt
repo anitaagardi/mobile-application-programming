@@ -6,3 +6,6 @@ https://snack.expo.io/@anitaagardi/pastry_picker_2_plus
 https://snack.expo.io/@anitaagardi/routing_example
 https://snack.expo.io/@anitaagardi/mobile_application_beadando_levelezo_vycw22
 https://snack.expo.io/@anitaagardi/film_actor
+-------------------------------------------------------------------------------------------------------------------------------------------
+https://snack.expo.io/@anitaagardi/inventory
+https://snack.expo.io/@anitaagardi/teendo-lista-alkalmazas
