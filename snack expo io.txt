@@ -12,3 +12,8 @@ https://snack.expo.io/@anitaagardi/teendo-lista-alkalmazas
 https://snack.expo.io/@anitaagardi/sqlite-example-todo
 ------------------------------------------------------------------------------------------------------------------------------------------
 https://snack.expo.io/@anitaagardi/reactnativesql
+------------------------------------------------------------------------------------------------------------------------------------------
+Beadandok:
+https://snack.expo.io/@anitaagardi/szoke_attila_mpa_assignment_v2
+https://snack.expo.io/@anitaagardi/solyom_tamas_wot-registry
+https://snack.expo.io/@anitaagardi/ilku_kriszitan_beadando_mobil_programozas_alapjai
