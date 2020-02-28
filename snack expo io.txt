@@ -9,9 +9,7 @@ https://snack.expo.io/@anitaagardi/film_actor
 -------------------------------------------------------------------------------------------------------------------------------------------
 https://snack.expo.io/@anitaagardi/inventory
 https://snack.expo.io/@anitaagardi/teendo-lista-alkalmazas
-https://snack.expo.io/@anitaagardi/sqlite-example-todo
-------------------------------------------------------------------------------------------------------------------------------------------
-https://snack.expo.io/@anitaagardi/reactnativesql
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 Beadandok:
 https://snack.expo.io/@anitaagardi/szoke_attila_mpa_assignment_v2
