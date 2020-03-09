@@ -17,6 +17,22 @@ https://snack.expo.io/@anitaagardi/solyom_tamas_wot-registry
 https://snack.expo.io/@anitaagardi/ilku_kriszitan_beadando_mobil_programozas_alapjai
 
 https://snack.expo.io/@anitaagardi/mobil_prog_final_@rendzso
+
 https://snack.expo.io/@anitaagardi/istvan747library
 https://snack.expo.io/@anitaagardi/excited-macaroni-and-cheese_tamas_nemeti
 https://snack.expo.io/@anitaagardi/mobil_programozas_beadando_vycw22
+
+https://snack.expo.io/@anitaagardi/react-native-flatlist-listitem
+https://snack.expo.io/@anitaagardi/sectionlist-example
+https://snack.expo.io/@anitaagardi/github.com-calvin-cs262-fall2019-teamj-calvin-connect@localbranch
+https://snack.expo.io/@anitaagardi/memorygame
+https://snack.expo.io/@anitaagardi/unnamed-snack
+https://snack.expo.io/@anitaagardi/react-native-popup-menu
+https://snack.expo.io/@anitaagardi/picker
+https://snack.expo.io/@anitaagardi/unnamed-snack
+https://snack.expo.io/@anitaagardi/react-native-pokedex
+
+
+
+
+
