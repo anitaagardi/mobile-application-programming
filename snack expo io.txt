@@ -25,17 +25,19 @@ https://snack.expo.io/@anitaagardi/practice_snack
 https://snack.expo.io/@anitaagardi/number_guess_game
 https://snack.expo.io/@anitaagardi/pastry_picker_2
 https://snack.expo.io/@anitaagardi/pastry_picker_2_plus
-https://snack.expo.io/@anitaagardi/routing_example
-https://snack.expo.io/@anitaagardi/mobile_application_beadando_levelezo_vycw22
-https://snack.expo.io/@anitaagardi/film_actor
--------------------------------------------------------------------------------------------------------------------------------------------
-https://snack.expo.io/@anitaagardi/inventory
-https://snack.expo.io/@anitaagardi/teendo-lista-alkalmazas
+https://snack.expo.io/@anitaagardi/622b6e
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 Beadandok:
+https://snack.expo.io/@anitaagardi/mobile_application_beadando_levelezo_vycw22
+https://snack.expo.io/@anitaagardi/film_actor
+
+https://snack.expo.io/@anitaagardi/inventory
+https://snack.expo.io/@anitaagardi/teendo-lista-alkalmazas
+
+
 https://snack.expo.io/@anitaagardi/szoke_attila_mpa_assignment_v2
-https://snack.expo.io/@anitaagardi/solyom_tamas_wot-registry
+
 https://snack.expo.io/@anitaagardi/ilku_kriszitan_beadando_mobil_programozas_alapjai
 
 https://snack.expo.io/@anitaagardi/mobil_prog_final_@rendzso
@@ -43,10 +45,10 @@ https://snack.expo.io/@anitaagardi/mobil_prog_final_@rendzso
 https://snack.expo.io/@anitaagardi/istvan747library
 https://snack.expo.io/@anitaagardi/excited-macaroni-and-cheese_tamas_nemeti
 https://snack.expo.io/@anitaagardi/mobil_programozas_beadando_vycw22
-
+-------------------------------------------------------------------------------------------------------
 https://snack.expo.io/@anitaagardi/react-native-flatlist-listitem
 https://snack.expo.io/@anitaagardi/sectionlist-example
-https://snack.expo.io/@anitaagardi/github.com-calvin-cs262-fall2019-teamj-calvin-connect@localbranch
+
 https://snack.expo.io/@anitaagardi/memorygame
 https://snack.expo.io/@anitaagardi/unnamed-snack
 https://snack.expo.io/@anitaagardi/react-native-popup-menu
