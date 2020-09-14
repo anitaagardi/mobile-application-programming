@@ -27,6 +27,15 @@ https://snack.expo.io/@anitaagardi/pastry_picker_2
 https://snack.expo.io/@anitaagardi/pastry_picker_2_plus
 https://snack.expo.io/@anitaagardi/622b6e
 
+https://snack.expo.io/@anitaagardi/lesson6sample0
+https://snack.expo.io/@anitaagardi/lesson-1,-2,-3,-4,-5
+https://snack.expo.io/@anitaagardi/funny-churros
+https://snack.expo.io/@anitaagardi/cs50-lesson4-userinput
+https://snack.expo.io/@anitaagardi/fortune-cookie-genie
+https://snack.expo.io/@anitaagardi/vengeful-beef-jerky
+https://snack.expo.io/@anitaagardi/restless-candy
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 Beadandok:
 https://snack.expo.io/@anitaagardi/mobile_application_beadando_levelezo_vycw22
