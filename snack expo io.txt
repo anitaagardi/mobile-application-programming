@@ -27,14 +27,15 @@ https://snack.expo.io/@anitaagardi/pastry_picker_2
 https://snack.expo.io/@anitaagardi/pastry_picker_2_plus
 https://snack.expo.io/@anitaagardi/622b6e
 
-https://snack.expo.io/@anitaagardi/lesson6sample0
-https://snack.expo.io/@anitaagardi/lesson-1,-2,-3,-4,-5
-https://snack.expo.io/@anitaagardi/funny-churros
+
+
 https://snack.expo.io/@anitaagardi/cs50-lesson4-userinput
 https://snack.expo.io/@anitaagardi/fortune-cookie-genie
 https://snack.expo.io/@anitaagardi/vengeful-beef-jerky
 https://snack.expo.io/@anitaagardi/restless-candy
 
+https://snack.expo.io/@anitaagardi/createstacknavigator
+https://snack.expo.io/@anitaagardi/routing_example
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 Beadandok:
@@ -53,7 +54,7 @@ https://snack.expo.io/@anitaagardi/mobil_prog_final_@rendzso
 
 https://snack.expo.io/@anitaagardi/istvan747library
 https://snack.expo.io/@anitaagardi/excited-macaroni-and-cheese_tamas_nemeti
-https://snack.expo.io/@anitaagardi/mobil_programozas_beadando_vycw22
+
 -------------------------------------------------------------------------------------------------------
 https://snack.expo.io/@anitaagardi/react-native-flatlist-listitem
 https://snack.expo.io/@anitaagardi/sectionlist-example
@@ -62,7 +63,6 @@ https://snack.expo.io/@anitaagardi/memorygame
 https://snack.expo.io/@anitaagardi/unnamed-snack
 https://snack.expo.io/@anitaagardi/react-native-popup-menu
 https://snack.expo.io/@anitaagardi/picker
-https://snack.expo.io/@anitaagardi/unnamed-snack
 https://snack.expo.io/@anitaagardi/react-native-pokedex
 
 
