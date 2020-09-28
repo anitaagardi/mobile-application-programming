@@ -36,6 +36,7 @@ https://snack.expo.io/@anitaagardi/restless-candy
 
 https://snack.expo.io/@anitaagardi/createstacknavigator
 https://snack.expo.io/@anitaagardi/routing_example
+https://snack.expo.io/@anitaagardi/routing_3
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 Beadandok:
