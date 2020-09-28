@@ -56,6 +56,11 @@ https://snack.expo.io/@anitaagardi/mobil_prog_final_@rendzso
 https://snack.expo.io/@anitaagardi/istvan747library
 https://snack.expo.io/@anitaagardi/excited-macaroni-and-cheese_tamas_nemeti
 
+
+
+https://snack.expo.io/@anitaagardi/mobil-programozas-wmvl30
+https://snack.expo.io/@anitaagardi/mobil_dev_beadando
+
 -------------------------------------------------------------------------------------------------------
 https://snack.expo.io/@anitaagardi/react-native-flatlist-listitem
 https://snack.expo.io/@anitaagardi/sectionlist-example
