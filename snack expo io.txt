@@ -64,6 +64,7 @@ https://snack.expo.io/@anitaagardi/unnamed-snack
 https://snack.expo.io/@anitaagardi/react-native-popup-menu
 https://snack.expo.io/@anitaagardi/picker
 https://snack.expo.io/@anitaagardi/react-native-pokedex
+https://snack.expo.io/@anitaagardi/registry
 
 
 
