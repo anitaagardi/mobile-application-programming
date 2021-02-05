@@ -1,0 +1,4 @@
+Javascript:
+https://www.tutorialspoint.com/javascript/index.htm
+ES6
+https://www.tutorialspoint.com/es6/index.htm
