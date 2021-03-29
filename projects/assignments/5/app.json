@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "mobil_programozas_beadando_vycw22",
+    "description": "No description",
+    "slug": "snack-3acd52a7-db5f-4f1b-8821-de18a0688ff7",
+    "privacy": "unlisted",
+    "sdkVersion": "34.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
+    "loading": {
+      "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
