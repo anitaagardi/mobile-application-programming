@@ -66,7 +66,7 @@ class AddMyItem extends React.Component {
       this.state.piece == '' ||
       this.state.measure == ''
     ) {
-      alert('Hiányzó adatok vannak a form-ban, kérlek töltsd ki!');
+      alert('Missing data in the form, please fill it out!');
     } else {
       db.addNewItem(this.state);
       this.handleBackPress();
@@ -83,12 +83,12 @@ class AddMyItem extends React.Component {
         <ScrollView
           contentContainerStyle={{ flexGrow: 1, justifyContent: 'center' }}>
           <View>
-            <Text style={styles.title}>Adjon hozzá új itemet a bevásárlólistához, ami még nincs a listán!</Text>
+            <Text style={styles.title}>Add a new item to the shopping list that is not yet on the list!</Text>
 
             <FormTextInput
               value={this.state.name}
               onChangeText={this.handleNameChange}
-              placeholder="Élelmiszer"
+              placeholder="Food"
               style={styles.form}
             />
             <Picker
@@ -97,8 +97,8 @@ class AddMyItem extends React.Component {
               onValueChange={(itemValue) => {
                 this.setState({ type: itemValue });
               }}>
-              <Picker.Item label="Élelmiszer" value="Élelmiszer" />
-              <Picker.Item label="Zöldség/Gyümölcs" value="Zöldség/Gyümölcs" />
+              <Picker.Item label="Food" value="Food" />
+              <Picker.Item label="Vegetables, fruit" value="Vegetables, fruit" />
               <Picker.Item label="NonFood" value="NonFood" />
             </Picker>
             <FormTextInput
@@ -106,14 +106,14 @@ class AddMyItem extends React.Component {
               onChangeText={this.handlePriceChange}
               keyboardType="numeric"
               style={styles.form}
-              placeholder="Ára"
+              placeholder="Price"
             />
             <FormTextInput
               value={this.state.piece}
               onChangeText={this.handlePieceChange}
               keyboardType="numeric"
               style={styles.form}
-              placeholder="Mennyiség"
+              placeholder="Quantity"
             />
             <Picker
               selectedValue={this.state.measure}
@@ -123,7 +123,7 @@ class AddMyItem extends React.Component {
               }}>
               <Picker.Item label="liter" value="liter" />
               <Picker.Item label="kg" value="kg" />
-              <Picker.Item label="csomag" value="csomag" />
+              <Picker.Item label="count" value="count" />
             </Picker>
             <Button
               label="Send"

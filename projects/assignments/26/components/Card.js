@@ -26,14 +26,14 @@ export default class MyCard extends React.Component {
           <View style={{ flex: 1, flexDirection: 'row' }}>
             <View>
               <Text style={styles.subText}>
-                Mennyiség:
+                Quantity:
                 <Text style={styles.priceText}>
                   {this.props.item.piece}
                   {this.props.item.measure}
                 </Text>{' '}
               </Text>
               <Text style={styles.subText}>
-                Ára:
+                Price:
                 <Text style={styles.priceText}>
                   {this.props.item.price} Ft
                 </Text>{' '}

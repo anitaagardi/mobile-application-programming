@@ -2,15 +2,11 @@ import * as React from 'react';
 import {
   View,
   StyleSheet,
-  FlatList,
-  Item,
   Text,
   ScrollView,
-  SafeAreaView,
   TouchableOpacity,
-  Animated,
 } from 'react-native';
-import { SwipeListView, SwipeRow } from 'react-native-swipe-list-view';
+import { SwipeListView } from 'react-native-swipe-list-view';
 import db from '../db-mock/db-mock';
 import css from '../css/css';
 import Button from './shared/Button';

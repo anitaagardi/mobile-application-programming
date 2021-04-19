@@ -15,7 +15,7 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 import logo from '../assets/logo.png';
 import styles from '../assets/styles';
 
-const userInfo = { username: 'admin', password: '' };
+const userInfo = { username: 'admin', password: 'admin' };
 
 export default class LoginView extends React.Component {
   constructor(props) {
