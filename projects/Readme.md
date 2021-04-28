@@ -11,7 +11,10 @@ npm install
 
 4.) Start project (in each project where the package.json is):
 npm start (or: expo start)
+
+
 ---------------------------------
+
 New Project:
 
 expo init ProjectName
