@@ -14,7 +14,7 @@ export default class FishermanList extends React.Component {
   static navigationOptions = {
     header: null,
   };
-  state: {
+  state= {
     db: {}, 
     fishermen: [],
   };

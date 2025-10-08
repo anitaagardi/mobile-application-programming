@@ -18,7 +18,7 @@ export default class CakeList extends React.Component {
   static navigationOptions = {
     header: null,
   };
-  state: {
+  state= {
     db: {},
     cars: [],
   };

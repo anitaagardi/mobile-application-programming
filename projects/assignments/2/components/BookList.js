@@ -18,7 +18,7 @@ export default class BookList extends React.Component {
   static navigationOptions = {
     header: null,
   };
-  state: {
+  state =  {
     database: {},
     books: [],
   };
